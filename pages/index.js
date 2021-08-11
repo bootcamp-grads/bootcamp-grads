@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Bootcamp Jobs</title>
+        <title>Bootcamp Grads</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
