@@ -14,7 +14,7 @@ export default function Home() {
         <Header title="Coming Soon!" />
         <p className="description">
           Just finished your coding/UX bootcamp in Singapore?
-          Visit this <a href="https://github.com/bootcamp-jobs/bootcamp-jobs">repo</a> to learn more.
+          Visit this <a href="https://github.com/bootcamp-grads/bootcamp-grads">repo</a> to learn more.
         </p>
       </main>
 
